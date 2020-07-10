@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae7fc5a8-9404-49f1-9994-b3f2fea62848" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b89A1Izr5iqrSmOZu0cMK2xvfk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../coursera/Discrete Optimization/knapsack" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/old_gomory" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lp">
+    <configuration name="lp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="branch_and_bound" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old_gomory/lp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="simplex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="branch_and_bound" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simplex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="two_phase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="branch_and_bound" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/two_phase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lp" />
+        <item itemvalue="Python.simplex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae7fc5a8-9404-49f1-9994-b3f2fea62848" name="Default Changelist" comment="" />
+      <created>1588002706775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588002706775</updated>
+      <workItem from="1588002708111" duration="5587000" />
+      <workItem from="1588066760737" duration="5973000" />
+      <workItem from="1588097507855" duration="3596000" />
+      <workItem from="1588130944304" duration="630000" />
+      <workItem from="1588177589232" duration="6000" />
+      <workItem from="1588178740945" duration="6380000" />
+      <workItem from="1588220361400" duration="3870000" />
+      <workItem from="1588244066488" duration="16927000" />
+      <workItem from="1588306175665" duration="1748000" />
+      <workItem from="1588341560877" duration="616000" />
+      <workItem from="1588696609107" duration="495000" />
+      <workItem from="1588697195806" duration="110000" />
+      <workItem from="1588697445328" duration="5141000" />
+      <workItem from="1588729252402" duration="2796000" />
+      <workItem from="1588742483302" duration="10000" />
+      <workItem from="1588742541953" duration="2113000" />
+      <workItem from="1588755840677" duration="482000" />
+      <workItem from="1588765529978" duration="987000" />
+      <workItem from="1588903378614" duration="204000" />
+      <workItem from="1588915117403" duration="599000" />
+      <workItem from="1589017826777" duration="285000" />
+      <workItem from="1589018130566" duration="17000" />
+      <workItem from="1589386654336" duration="599000" />
+      <workItem from="1589422755884" duration="600000" />
+      <workItem from="1589432765782" duration="1967000" />
+      <workItem from="1589434893204" duration="11780000" />
+      <workItem from="1589457181253" duration="7278000" />
+      <workItem from="1589467989280" duration="1052000" />
+      <workItem from="1589519056042" duration="38000" />
+      <workItem from="1589521388809" duration="3180000" />
+      <workItem from="1590135304392" duration="599000" />
+      <workItem from="1590149213708" duration="15000" />
+      <workItem from="1590247949121" duration="3697000" />
+      <workItem from="1590389204942" duration="990000" />
+      <workItem from="1590420616974" duration="4481000" />
+      <workItem from="1590457031479" duration="4352000" />
+      <workItem from="1590489003523" duration="6674000" />
+      <workItem from="1590654036304" duration="2003000" />
+      <workItem from="1590664623129" duration="599000" />
+      <workItem from="1590672513816" duration="308000" />
+      <workItem from="1590673082229" duration="848000" />
+      <workItem from="1590680521759" duration="5474000" />
+      <workItem from="1590713416116" duration="648000" />
+      <workItem from="1590714536257" duration="37000" />
+      <workItem from="1590714578344" duration="588000" />
+      <workItem from="1590716746382" duration="606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="354" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588748063822">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="673" y="354" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1588748063822" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590493195074">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590493195074" />
+    <state x="826" y="444" width="325" height="217" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1590681542260">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="826" y="444" width="325" height="217" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1590681542260" />
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl" timestamp="1590717619278">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="296" width="424" height="513" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1590717619278" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1588697305526">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588697305526" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1588697305526">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588697305526" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1588697305526">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588697305526" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1588697305526">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588697305526" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1588006895997">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1588006895997" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1590489883957">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1590489883957" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/simplex$dual_simplex.coverage" NAME="dual_simplex Coverage Results" MODIFIED="1588266073208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/simplex$gomory.coverage" NAME="gomory Coverage Results" MODIFIED="1588308653401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gomory$gomory.coverage" NAME="gomory Coverage Results" MODIFIED="1588697254784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/simplex$simplex.coverage" NAME="simplex Coverage Results" MODIFIED="1588184291004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
